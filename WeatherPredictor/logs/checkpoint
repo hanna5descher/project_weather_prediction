@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\hanna\\Desktop\\WeatherPredictor\\WeatherPredictor/logs\\model.ckpt-5849"
+all_model_checkpoint_paths: "C:\\Users\\hanna\\Desktop\\WeatherPredictor\\WeatherPredictor/logs\\model.ckpt-5675"
+all_model_checkpoint_paths: "C:\\Users\\hanna\\Desktop\\WeatherPredictor\\WeatherPredictor/logs\\model.ckpt-5761"
+all_model_checkpoint_paths: "C:\\Users\\hanna\\Desktop\\WeatherPredictor\\WeatherPredictor/logs\\model.ckpt-5847"
+all_model_checkpoint_paths: "C:\\Users\\hanna\\Desktop\\WeatherPredictor\\WeatherPredictor/logs\\model.ckpt-5848"
+all_model_checkpoint_paths: "C:\\Users\\hanna\\Desktop\\WeatherPredictor\\WeatherPredictor/logs\\model.ckpt-5849"
